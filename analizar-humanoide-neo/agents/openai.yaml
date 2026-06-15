@@ -1,0 +1,3 @@
+display_name: Analizar humanoide NEO
+short_description: Evalua humanoides frente a NEO.
+default_prompt: Analiza este robot humanoide usando NEO de 1X como referencia base, separando hechos, inferencias, hipotesis y dudas.
